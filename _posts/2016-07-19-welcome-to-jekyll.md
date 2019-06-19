@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Look for the right candidate, not the best candidate"
+title:  "Unconscious bias is stopping you hiring talent"
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
+Research has shown that companies that rank high on gender, racial or ethnic diversity benefit from financial returns that are above national industry medians.  Despite this, experiments have shown that male and female interviewers, even after training to improve their objectivity, were still more likely to hire men, and consider them more competent than women.
