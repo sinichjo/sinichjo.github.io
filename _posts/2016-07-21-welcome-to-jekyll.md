@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Be honest: when was the last time you actually read a resume and cover letter?"
+title:  "When did you last really read a resume and cover letter?"
 date:   2016-07-21 12:00:00 -0400
 categories: jekyll update
 ---
