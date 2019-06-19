@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Recruit faster & smarter"
+title:  "Hire faster"
 categories: jekyll update
 ---
-The Holliach platform empowers you to make data driven hiring decisions.  No uploading of resumes or cover letters, candidates answer questions about their experience, strengths, motivations, and work-based preferences.  Our algorithm tells you how closely candidates match your needs as soon as they apply.
+With Holliach, there's no need for candidates to write, edit, and upload resumes or cover letters and our algorithm tells you how closely candidates match your needs as soon as they apply.  The insight gained from Holliach means you can bring them in for interview quicker.
