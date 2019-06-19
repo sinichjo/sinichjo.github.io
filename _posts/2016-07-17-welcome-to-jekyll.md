@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Overcoming conscious and unconscious bias"
+title:  "Recruit faster & smarter"
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
+The Holliach platform lets you make data driven hiring decisions.  No need for candidates to upload resumes or cover letters, they will instead answer questions about their knowledge, experience, strengths, motivations, and work-based preferences and our algorithm will tell you how closely candidates match your needs as soon as they apply.
