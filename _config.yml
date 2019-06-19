@@ -14,7 +14,7 @@ url: "" # the base hostname & protocol for your site
 
 # Logo settings
 logo-image-url: images/logo.svg
-font-awesome-icon-logo: yes
+font-awesome-icon-logo:
 
 # Social settings
 github_username: andrewbanchich
@@ -29,4 +29,4 @@ phone: 555-5555
 markdown: kramdown
 
 # Layout settings
-home-link-in-menu: yes
+home-link-in-menu: no
