@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Take back the power from recruiters"
+title:  "Candidates drop out when hiring take too long"
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
+Research suggests the main reason that candidate drop-out is a long hiring process.  But they also drop out for other reasons too, including frustrating online application processes, not receiving feedback, and being asked the same or similar questions multiple times.
